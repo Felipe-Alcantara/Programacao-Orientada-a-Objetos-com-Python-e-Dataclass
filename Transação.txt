@@ -1,0 +1,6 @@
+Descrição: Salário | Valor: 10000.0 | Categoria: Receitas
+Descrição: Mesada da mamãe | Valor: 50.0 | Categoria: Receitas
+Descrição: Ingresso do show | Valor: -150 | Categoria: Lazer
+Descrição: Conta de luz | Valor: -100 | Categoria: Contas fixas
+Descrição: Disney | Valor: -4000 | Categoria: Viagens
+valor total: 5800.0
